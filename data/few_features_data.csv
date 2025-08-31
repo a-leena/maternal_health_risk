@@ -1,939 +1,939 @@
 Age,SystolicBP,BloodSugar,RiskLevel
-25,130,15.0,high risk
-35,140,13.0,high risk
-29,90,8.0,high risk
-30,140,7.0,high risk
-35,120,6.1,low risk
-23,140,7.01,high risk
-23,130,7.01,mid risk
-35,85,11.0,high risk
-32,120,6.9,mid risk
-23,90,7.01,low risk
-19,120,7.0,mid risk
-25,110,7.01,low risk
-20,120,7.01,mid risk
-48,120,11.0,mid risk
-15,120,7.01,low risk
-50,140,15.0,high risk
-25,140,7.01,high risk
-30,120,6.9,mid risk
-10,70,6.9,low risk
-50,140,6.7,mid risk
-21,90,7.5,low risk
-18,90,7.5,low risk
-21,120,7.5,low risk
-16,100,7.2,low risk
-19,120,7.2,low risk
-22,100,7.2,low risk
-49,120,7.2,low risk
-28,90,7.2,low risk
-20,100,7.1,low risk
-23,100,7.1,low risk
-22,120,7.1,low risk
-21,120,7.1,low risk
-21,75,6.1,low risk
-12,95,6.1,low risk
-60,120,6.1,low risk
-55,100,6.1,low risk
-45,120,6.1,low risk
-35,100,6.1,low risk
-22,120,6.1,low risk
-23,120,6.1,low risk
-25,90,6.1,low risk
-30,120,6.1,low risk
-23,120,6.1,low risk
-32,120,7.5,low risk
-42,120,7.5,low risk
-23,90,7.5,low risk
-15,76,7.5,low risk
-15,120,7.0,low risk
-25,120,7.0,low risk
-22,100,7.0,low risk
-35,100,7.0,low risk
-19,120,7.0,low risk
-60,90,7.0,low risk
-23,120,6.7,low risk
-32,120,6.4,low risk
-42,120,6.4,low risk
-23,90,6.4,low risk
-15,76,6.4,low risk
-15,120,7.2,low risk
-15,80,7.0,low risk
-12,95,7.2,low risk
-29,90,6.7,mid risk
-31,120,6.1,mid risk
-29,130,6.7,mid risk
-17,85,9.0,mid risk
-19,120,7.0,mid risk
-20,110,7.0,mid risk
-32,120,6.0,mid risk
-26,85,6.0,mid risk
-29,130,7.7,mid risk
-19,120,7.0,mid risk
-54,130,12.0,mid risk
-44,120,16.0,mid risk
-23,130,6.9,mid risk
-22,85,6.9,mid risk
-55,120,12.0,mid risk
-35,120,6.9,mid risk
-21,90,6.9,mid risk
-16,90,6.9,mid risk
-33,115,7.0,mid risk
-12,95,6.9,mid risk
-28,120,6.9,mid risk
-21,90,6.9,mid risk
-18,90,6.9,mid risk
-21,120,6.9,mid risk
-16,100,6.9,mid risk
-19,120,6.9,mid risk
-23,100,6.9,mid risk
-22,120,7.8,mid risk
-13,90,7.8,mid risk
-23,120,7.8,mid risk
-28,115,7.8,mid risk
-50,120,7.8,mid risk
-29,130,7.8,mid risk
-19,120,7.0,mid risk
-19,120,7.8,mid risk
-60,90,6.8,mid risk
-55,120,6.8,mid risk
-25,120,6.8,mid risk
-48,140,15.0,high risk
-25,140,6.8,high risk
-23,140,6.8,high risk
-34,85,11.0,high risk
-50,140,15.0,high risk
-25,140,6.8,high risk
-32,140,7.9,high risk
-38,135,7.9,high risk
-39,90,9.0,high risk
-30,140,15.0,high risk
-25,140,7.9,high risk
-30,120,7.9,high risk
-32,140,7.9,high risk
-30,140,15.0,high risk
-48,120,11.0,high risk
-49,140,15.0,high risk
-25,140,7.5,high risk
-35,140,7.5,high risk
-54,140,15.0,high risk
-29,120,9.0,high risk
-48,120,11.0,high risk
-35,140,7.5,high risk
-54,140,15.0,high risk
-40,120,11.0,high risk
-22,90,7.5,high risk
-40,120,15.0,high risk
-50,130,16.0,high risk
-18,120,6.9,mid risk
-32,140,6.9,high risk
-17,90,6.9,mid risk
-17,90,6.9,mid risk
-25,120,6.7,mid risk
-17,120,6.7,mid risk
-14,90,7.0,high risk
-15,80,6.7,low risk
-15,100,6.7,low risk
-12,95,6.7,low risk
-37,120,11.0,high risk
-18,100,6.7,low risk
-21,100,6.7,low risk
-17,110,12.0,high risk
-25,120,7.5,low risk
-23,85,7.5,low risk
-12,95,7.5,low risk
-28,120,7.5,low risk
-40,120,12.0,high risk
-55,129,7.5,low risk
-25,100,7.5,low risk
-35,120,7.5,low risk
-21,90,7.5,low risk
-18,90,7.5,low risk
-21,120,7.5,low risk
-16,100,7.2,low risk
-19,120,7.2,low risk
-22,100,7.2,low risk
-49,120,7.2,low risk
-28,90,7.2,low risk
-12,90,7.9,high risk
-20,100,7.1,low risk
-23,100,7.1,low risk
-22,120,7.1,low risk
-21,120,7.1,low risk
-35,140,8.0,high risk
-54,140,15.0,high risk
-40,120,11.0,high risk
-21,75,6.1,low risk
-12,95,6.1,low risk
-50,130,16.0,high risk
-60,120,6.1,low risk
-55,100,6.1,low risk
-45,120,6.1,low risk
-35,100,6.1,low risk
-22,120,6.1,low risk
-13,90,7.9,mid risk
-23,120,6.1,low risk
-17,90,6.1,high risk
-28,83,8.0,high risk
-50,120,15.0,high risk
-25,90,6.1,low risk
-30,120,6.1,low risk
-31,120,6.1,mid risk
-23,120,6.1,low risk
-29,130,6.1,mid risk
-17,85,9.0,high risk
-32,120,7.5,low risk
-42,120,7.5,low risk
-23,90,7.5,low risk
-19,120,7.0,mid risk
-15,76,7.5,low risk
-33,120,10.0,high risk
-48,120,11.0,high risk
-15,120,7.0,low risk
-25,120,7.0,low risk
-22,100,7.0,low risk
-35,100,7.0,low risk
-19,120,7.0,low risk
-60,90,7.0,low risk
-28,85,9.0,mid risk
-50,140,6.7,mid risk
-29,90,6.7,mid risk
-30,140,15.0,high risk
-31,120,6.1,mid risk
-23,120,6.7,low risk
-29,130,6.7,mid risk
-17,85,9.0,mid risk
-32,120,6.4,low risk
-42,120,6.4,low risk
-23,90,6.4,low risk
-19,120,7.0,mid risk
-15,76,6.4,low risk
-29,120,7.2,high risk
-48,120,11.0,high risk
-15,120,7.2,low risk
-50,140,15.0,high risk
-25,140,7.2,high risk
-55,140,7.2,high risk
-20,110,7.0,mid risk
-28,120,9.0,high risk
-32,140,8.0,high risk
-17,90,11.0,high risk
-17,90,8.0,high risk
-25,120,12.0,high risk
-17,120,7.0,high risk
-19,90,11.0,high risk
-15,80,7.0,low risk
-32,120,6.0,mid risk
-12,95,7.2,low risk
-37,120,11.0,high risk
-18,100,6.8,low risk
-21,100,6.9,low risk
-17,110,13.0,high risk
-25,120,15.0,high risk
-10,85,6.9,low risk
-12,95,6.9,low risk
-28,120,6.9,low risk
-40,120,6.9,low risk
-55,110,6.9,low risk
-25,100,6.9,low risk
-35,120,6.9,low risk
-21,90,6.9,low risk
-18,90,6.9,low risk
-21,120,6.9,low risk
-16,100,6.9,low risk
-19,120,6.9,low risk
-22,100,6.9,low risk
-49,120,6.9,low risk
-28,90,6.9,low risk
-12,90,8.0,high risk
-20,100,7.0,low risk
-23,100,7.0,low risk
-22,120,7.0,low risk
-21,120,7.0,low risk
-35,140,9.0,high risk
-54,140,15.0,high risk
-40,120,11.0,high risk
-21,75,7.7,low risk
-12,90,11.0,high risk
-50,130,16.0,high risk
-60,120,7.7,low risk
-55,100,7.7,low risk
-45,120,7.7,low risk
-35,100,7.7,low risk
-22,120,7.7,low risk
-13,90,9.0,high risk
-23,120,7.7,low risk
-17,90,7.7,high risk
-26,85,6.0,mid risk
-50,120,7.7,low risk
-19,90,7.7,low risk
-30,120,7.7,low risk
-31,120,6.1,low risk
-23,120,7.7,low risk
-29,130,7.7,mid risk
-17,85,6.3,high risk
-32,120,7.7,low risk
-42,120,7.7,low risk
-23,90,7.7,low risk
-19,120,7.0,mid risk
-15,75,7.7,low risk
-40,120,7.7,high risk
-48,120,11.0,high risk
-15,120,7.7,low risk
-25,120,7.7,low risk
-22,100,6.9,low risk
-12,120,6.9,low risk
-35,100,6.9,low risk
-19,120,6.9,low risk
-60,90,6.9,low risk
-55,120,6.9,low risk
-35,90,6.9,low risk
-51,85,6.9,low risk
-62,120,6.9,low risk
-25,90,6.9,low risk
-21,120,6.9,low risk
-54,130,12.0,mid risk
-12,120,6.9,low risk
-65,90,6.9,low risk
-60,120,6.9,low risk
-25,120,6.9,low risk
-22,90,6.9,low risk
-66,85,6.9,low risk
-56,120,13.0,high risk
-35,90,6.9,low risk
-43,120,15.0,high risk
-35,120,6.9,low risk
-44,120,16.0,mid risk
-23,130,6.9,mid risk
-22,85,6.9,mid risk
-55,120,12.0,mid risk
-35,120,6.9,mid risk
-21,90,6.9,mid risk
-45,120,6.9,low risk
-65,120,6.9,low risk
-55,120,6.9,low risk
-22,120,6.9,low risk
-16,90,6.9,mid risk
-12,95,6.9,low risk
-37,120,11.0,high risk
-18,100,6.9,low risk
-21,100,6.9,low risk
-17,110,6.9,high risk
-25,120,6.9,low risk
-33,115,7.0,mid risk
-12,95,6.9,mid risk
-28,120,6.9,mid risk
-40,120,6.9,high risk
-55,110,6.9,high risk
-25,100,6.9,high risk
-35,120,6.9,high risk
-21,90,6.9,mid risk
-18,90,6.9,mid risk
-21,120,6.9,mid risk
-16,100,6.9,mid risk
-19,120,6.9,mid risk
-23,100,6.9,mid risk
-22,120,7.8,mid risk
-21,120,7.8,low risk
-35,140,7.8,high risk
-54,140,15.0,high risk
-40,120,11.0,high risk
-21,75,7.8,low risk
-12,90,7.8,high risk
-50,130,16.0,high risk
-60,120,7.8,high risk
-55,100,7.8,low risk
-45,120,7.8,low risk
-35,100,7.8,low risk
-22,120,7.8,low risk
-13,90,7.8,mid risk
-23,120,7.8,mid risk
-17,90,7.8,high risk
-28,115,7.8,mid risk
-50,120,7.8,mid risk
-19,90,7.8,low risk
-30,120,7.8,low risk
-31,120,6.1,low risk
-23,120,7.8,low risk
-29,130,7.8,mid risk
-17,85,7.8,high risk
-32,120,7.8,low risk
-42,120,7.8,low risk
-23,90,7.8,low risk
-19,120,7.0,mid risk
-15,76,7.8,low risk
-20,120,7.8,low risk
-48,120,11.0,high risk
-15,120,7.8,low risk
-25,120,7.8,low risk
-22,100,7.8,low risk
-12,120,7.8,low risk
-35,100,7.8,low risk
-19,120,7.8,mid risk
-60,90,6.8,mid risk
-55,120,6.8,mid risk
-25,120,6.8,mid risk
-22,100,6.8,low risk
-12,120,6.8,mid risk
-35,100,6.8,mid risk
-19,120,6.8,mid risk
-60,90,6.8,mid risk
-55,120,6.8,low risk
-50,130,16.0,mid risk
-27,120,6.8,mid risk
-60,140,12.0,high risk
-55,100,6.8,mid risk
-12,120,6.8,mid risk
-17,140,6.8,high risk
-60,120,6.8,mid risk
-22,100,6.8,low risk
-36,140,6.8,high risk
-22,90,6.8,low risk
-25,120,6.8,mid risk
-40,140,13.0,high risk
-27,120,6.8,low risk
-36,140,6.8,high risk
-22,90,6.8,mid risk
-25,120,6.8,low risk
-40,140,13.0,high risk
-27,120,6.8,low risk
-27,120,6.8,low risk
-35,140,13.0,high risk
-29,90,10.0,high risk
-30,120,6.8,mid risk
-35,120,6.1,mid risk
-23,140,6.8,high risk
-23,130,6.8,mid risk
-35,85,11.0,high risk
-32,120,6.8,low risk
-23,99,6.8,low risk
-19,120,7.0,mid risk
-15,76,6.8,low risk
-30,120,6.8,mid risk
-48,120,11.0,high risk
-15,120,6.8,low risk
-48,140,15.0,high risk
-25,140,6.8,high risk
-29,100,6.8,low risk
-32,120,6.8,mid risk
-35,120,6.1,low risk
-23,140,6.8,high risk
-23,130,6.8,mid risk
-34,85,11.0,high risk
-32,120,6.8,low risk
-23,90,6.8,low risk
-19,120,7.0,mid risk
-15,76,6.8,low risk
-20,120,6.8,low risk
-48,120,11.0,low risk
-15,120,6.8,low risk
-50,140,15.0,high risk
-25,140,6.8,high risk
-30,120,6.8,low risk
-31,110,6.8,mid risk
-18,120,6.8,low risk
-32,140,7.9,high risk
-17,90,7.9,low risk
-19,120,7.0,mid risk
-15,76,7.9,low risk
-19,120,7.9,low risk
-48,120,11.0,low risk
-15,120,7.9,low risk
-25,120,7.9,mid risk
-22,100,7.9,low risk
-35,100,7.9,low risk
-19,120,7.9,low risk
-60,90,7.9,low risk
-38,135,7.9,high risk
-50,120,7.9,low risk
-39,90,9.0,high risk
-30,140,15.0,high risk
-31,120,6.1,mid risk
-23,120,7.9,mid risk
-29,130,7.9,mid risk
-17,85,7.9,low risk
-32,120,7.9,low risk
-42,120,7.9,low risk
-23,90,7.9,low risk
-19,120,7.0,low risk
-15,76,7.9,low risk
-16,120,7.9,low risk
-48,120,11.0,mid risk
-15,120,7.9,low risk
-25,140,7.9,high risk
-30,120,7.9,high risk
-17,70,7.9,low risk
-18,120,7.9,mid risk
-32,140,7.9,high risk
-17,90,7.5,low risk
-17,90,7.5,low risk
-25,120,7.5,low risk
-17,120,7.5,low risk
-19,90,7.5,low risk
-15,80,7.5,low risk
-60,90,7.5,low risk
-18,85,7.5,mid risk
-50,120,7.5,low risk
-19,90,7.5,low risk
-30,140,15.0,high risk
-31,120,6.1,low risk
-23,120,7.5,low risk
-29,130,7.5,mid risk
-17,85,7.5,low risk
-32,120,7.5,low risk
-42,120,7.5,low risk
-42,90,7.5,low risk
-19,120,7.0,low risk
-15,78,7.5,low risk
-23,120,8.0,mid risk
-48,120,11.0,high risk
-15,120,7.5,mid risk
-49,140,15.0,high risk
-25,140,7.5,high risk
-30,120,7.5,mid risk
-16,70,7.5,low risk
-16,100,7.5,low risk
-19,120,7.5,low risk
-22,100,7.5,low risk
-49,120,7.5,low risk
-28,90,7.5,low risk
-12,90,7.5,low risk
-20,100,7.5,low risk
-23,100,7.5,low risk
-22,120,7.5,low risk
-21,120,7.5,low risk
-35,140,7.5,high risk
-54,140,15.0,high risk
-40,120,11.0,mid risk
-21,75,7.5,low risk
-12,90,7.5,low risk
-50,130,16.0,mid risk
-60,120,7.5,low risk
-55,100,7.5,low risk
-45,120,7.5,low risk
-35,100,7.5,low risk
-22,120,7.5,low risk
-13,90,7.5,low risk
-23,120,7.5,low risk
-17,90,7.5,low risk
-28,115,7.5,mid risk
-59,120,7.5,low risk
-29,120,9.0,high risk
-23,120,7.5,low risk
-31,120,6.1,mid risk
-23,120,7.5,mid risk
-29,130,7.5,mid risk
-17,85,7.5,low risk
-32,120,7.5,low risk
-42,120,7.5,low risk
-23,90,7.5,low risk
-19,120,7.0,low risk
-15,78,7.5,low risk
-20,120,7.5,low risk
-48,120,11.0,high risk
-15,120,7.5,low risk
-24,120,7.5,low risk
-16,100,7.5,low risk
-19,120,7.5,low risk
-22,100,7.5,mid risk
-49,120,7.5,mid risk
-28,90,7.5,mid risk
-12,90,7.5,mid risk
-20,100,7.5,mid risk
-23,100,7.5,mid risk
-22,120,7.5,mid risk
-21,120,7.5,mid risk
-35,140,7.5,high risk
-54,140,15.0,high risk
-40,120,11.0,high risk
-21,75,7.5,low risk
-22,90,7.5,high risk
-40,120,15.0,high risk
-50,130,16.0,high risk
-60,120,7.5,mid risk
-40,120,15.0,high risk
-50,130,16.0,mid risk
-41,120,7.5,low risk
-55,100,7.5,low risk
-45,120,7.5,low risk
-35,100,7.5,low risk
-22,120,7.5,low risk
-13,90,7.5,high risk
-23,120,7.5,low risk
-17,90,7.5,mid risk
-27,135,7.5,high risk
-50,120,15.0,high risk
-34,110,7.0,high risk
-32,120,7.5,low risk
-31,120,6.1,low risk
-23,120,7.5,low risk
-29,130,7.5,mid risk
-17,85,7.5,high risk
-32,120,7.5,low risk
-42,120,7.5,low risk
-23,90,7.5,low risk
-19,120,7.0,mid risk
-15,76,7.5,low risk
-20,120,7.5,low risk
-48,120,11.0,high risk
-15,120,7.5,low risk
-24,120,7.5,low risk
-22,100,12.0,high risk
-35,100,11.0,high risk
-19,120,9.0,mid risk
-30,90,8.0,mid risk
-28,85,9.0,mid risk
-50,130,15.0,high risk
-35,140,13.0,high risk
-29,90,11.0,high risk
-19,120,7.0,low risk
-46,140,12.0,high risk
-28,95,10.0,high risk
-50,120,7.0,mid risk
-39,110,7.9,mid risk
-31,120,6.1,low risk
-23,120,8.0,low risk
-29,130,8.0,mid risk
-17,90,9.0,mid risk
-32,120,7.0,mid risk
-42,120,9.0,mid risk
-23,90,6.7,low risk
-19,120,7.0,low risk
-15,76,7.0,low risk
-34,120,8.0,low risk
-48,120,11.0,high risk
-15,120,6.6,low risk
-25,140,12.0,high risk
-36,120,7.0,mid risk
-30,120,9.0,mid risk
-15,70,6.0,mid risk
-40,120,7.0,high risk
-15,90,6.0,low risk
-21,90,6.9,low risk
-15,90,6.0,low risk
-21,90,6.5,low risk
-15,90,6.0,low risk
-15,90,6.7,low risk
-15,90,6.0,low risk
-10,100,6.0,mid risk
-15,100,6.8,low risk
-15,100,6.0,low risk
-12,100,6.4,mid risk
-15,100,6.0,low risk
-35,140,13.0,high risk
-29,90,8.0,high risk
-30,140,7.0,high risk
-23,140,7.01,high risk
-35,85,11.0,high risk
-50,140,15.0,high risk
-25,140,7.01,high risk
-32,140,6.9,high risk
-14,90,7.0,high risk
-37,120,11.0,high risk
-17,110,12.0,high risk
-40,120,12.0,high risk
-20,120,7.5,low risk
-15,120,7.5,low risk
-24,120,7.5,low risk
-19,120,7.0,low risk
-31,120,6.1,low risk
-23,120,8.0,low risk
-23,90,6.7,low risk
-19,120,7.0,low risk
-15,76,7.0,low risk
-34,120,8.0,low risk
-15,120,6.6,low risk
-15,90,6.0,low risk
-21,90,6.9,low risk
-15,100,7.6,low risk
-12,100,6.0,mid risk
-21,100,6.8,low risk
-23,130,7.01,mid risk
-32,120,6.9,mid risk
-19,120,7.0,mid risk
-20,120,7.01,mid risk
-48,120,11.0,mid risk
-30,120,6.9,mid risk
-18,120,6.9,mid risk
-17,90,6.9,mid risk
-17,90,6.9,mid risk
-25,120,6.7,mid risk
-17,120,6.7,mid risk
-13,90,7.9,mid risk
-31,120,6.1,mid risk
-29,130,6.1,mid risk
-19,120,7.0,mid risk
-28,85,9.0,mid risk
-50,140,6.7,mid risk
-29,90,6.7,mid risk
-31,120,6.1,mid risk
-29,130,6.7,mid risk
-17,85,9.0,mid risk
-19,120,7.0,mid risk
-20,110,7.0,mid risk
-19,120,7.0,mid risk
-20,120,7.01,mid risk
-48,120,11.0,mid risk
-30,120,6.9,mid risk
-18,120,6.9,mid risk
-17,90,6.9,mid risk
-17,90,6.9,mid risk
-25,120,6.7,mid risk
-17,120,6.7,mid risk
-13,90,7.9,mid risk
-31,120,6.1,mid risk
-29,130,6.1,mid risk
-19,120,7.0,mid risk
-28,85,9.0,mid risk
-50,140,6.7,mid risk
-29,90,6.7,mid risk
-31,120,6.1,mid risk
-29,130,6.7,mid risk
-17,85,9.0,mid risk
-19,120,7.0,mid risk
-20,110,7.0,mid risk
-32,120,6.0,mid risk
-26,85,6.0,mid risk
-29,130,7.7,mid risk
-19,120,7.0,mid risk
-54,130,12.0,mid risk
-44,120,16.0,mid risk
-23,130,6.9,mid risk
-22,85,6.9,mid risk
-55,120,12.0,mid risk
-35,120,6.9,mid risk
-21,90,6.9,mid risk
-16,90,6.9,mid risk
-33,115,7.0,mid risk
-12,95,6.9,mid risk
-28,120,6.9,mid risk
-21,90,6.9,mid risk
-18,90,6.9,mid risk
-21,120,6.9,mid risk
-16,100,6.9,mid risk
-19,120,6.9,mid risk
-23,100,6.9,mid risk
-22,120,7.8,mid risk
-13,90,7.8,mid risk
-23,120,7.8,mid risk
-28,115,7.8,mid risk
-50,120,7.8,mid risk
-29,130,7.8,mid risk
-19,120,7.0,mid risk
-19,120,7.8,mid risk
-60,90,6.8,mid risk
-55,120,6.8,mid risk
-25,120,6.8,mid risk
-12,120,6.8,mid risk
-35,100,6.8,mid risk
-19,120,6.8,mid risk
-60,90,6.8,mid risk
-50,130,16.0,mid risk
-27,120,6.8,mid risk
-55,100,6.8,mid risk
-12,120,6.8,mid risk
-60,120,6.8,mid risk
-25,120,6.8,mid risk
-22,90,6.8,mid risk
-30,120,6.8,mid risk
-35,120,6.1,mid risk
-23,130,6.8,mid risk
-19,120,7.0,mid risk
-30,120,6.8,mid risk
-32,120,6.8,mid risk
-23,130,6.8,mid risk
-19,120,7.0,mid risk
-31,110,6.8,mid risk
-19,120,7.0,mid risk
-25,120,7.9,mid risk
-31,120,6.1,mid risk
-23,120,7.9,mid risk
-29,130,7.9,mid risk
-48,120,11.0,mid risk
-18,120,7.9,mid risk
-18,85,7.5,mid risk
-29,130,7.5,mid risk
-23,120,8.0,mid risk
-15,120,7.5,mid risk
-30,120,7.5,mid risk
-40,120,11.0,mid risk
-50,130,16.0,mid risk
-28,115,7.5,mid risk
-31,120,6.1,mid risk
-23,120,7.5,mid risk
-29,130,7.5,mid risk
-22,100,7.5,mid risk
-49,120,7.5,mid risk
-28,90,7.5,mid risk
-12,90,7.5,mid risk
-20,100,7.5,mid risk
-23,100,7.5,mid risk
-22,120,7.5,mid risk
-21,120,7.5,mid risk
-60,120,7.5,mid risk
-50,130,16.0,mid risk
-17,90,7.5,mid risk
-29,130,7.5,mid risk
-19,120,7.0,mid risk
-19,120,9.0,mid risk
-30,90,8.0,mid risk
-28,85,9.0,mid risk
-50,120,7.0,mid risk
-39,110,7.9,mid risk
-29,130,8.0,mid risk
-17,90,9.0,mid risk
-32,120,7.0,mid risk
-42,120,9.0,mid risk
-36,120,7.0,mid risk
-30,120,9.0,mid risk
-15,70,6.0,mid risk
-10,100,6.0,mid risk
-12,100,6.4,mid risk
-12,100,6.0,mid risk
-23,130,7.01,mid risk
-32,120,6.9,mid risk
-19,120,7.0,mid risk
-20,120,7.01,mid risk
-48,120,11.0,mid risk
-30,120,6.9,mid risk
-18,120,6.9,mid risk
-17,90,6.9,mid risk
-17,90,6.9,mid risk
-25,120,6.7,mid risk
-17,120,6.7,mid risk
-13,90,7.9,mid risk
-31,120,6.1,mid risk
-29,130,6.1,mid risk
-19,120,7.0,mid risk
-28,85,9.0,mid risk
-50,140,6.7,mid risk
-29,90,6.7,mid risk
-31,120,6.1,mid risk
-29,130,6.7,mid risk
-17,85,9.0,mid risk
-19,120,7.0,mid risk
-20,110,7.0,mid risk
-32,120,6.0,mid risk
-27,120,6.8,low risk
-27,120,6.8,low risk
-32,120,6.8,low risk
-23,99,6.8,low risk
-15,76,6.8,low risk
-15,120,6.8,low risk
-29,100,6.8,low risk
-35,120,6.1,low risk
-32,120,6.8,low risk
-23,90,6.8,low risk
-15,76,6.8,low risk
-20,120,6.8,low risk
-48,120,11.0,low risk
-15,120,6.8,low risk
-30,120,6.8,low risk
-18,120,6.8,low risk
-17,90,7.9,low risk
-15,76,7.9,low risk
-19,120,7.9,low risk
-48,120,11.0,low risk
-15,120,7.9,low risk
-22,100,7.9,low risk
-35,100,7.9,low risk
-19,120,7.9,low risk
-60,90,7.9,low risk
-50,120,7.9,low risk
-17,85,7.9,low risk
-32,120,7.9,low risk
-42,120,7.9,low risk
-23,90,7.9,low risk
-19,120,7.0,low risk
-15,76,7.9,low risk
-16,120,7.9,low risk
-15,120,7.9,low risk
-17,70,7.9,low risk
-17,90,7.5,low risk
-17,90,7.5,low risk
-25,120,7.5,low risk
-17,120,7.5,low risk
-19,90,7.5,low risk
-15,80,7.5,low risk
-60,90,7.5,low risk
-50,120,7.5,low risk
-19,90,7.5,low risk
-31,120,6.1,low risk
-23,120,7.5,low risk
-17,85,7.5,low risk
-32,120,7.5,low risk
-42,120,7.5,low risk
-42,90,7.5,low risk
-19,120,7.0,low risk
-15,78,7.5,low risk
-16,70,7.5,low risk
-16,100,7.5,low risk
-19,120,7.5,low risk
-22,100,7.5,low risk
-49,120,7.5,low risk
-28,90,7.5,low risk
-12,90,7.5,low risk
-20,100,7.5,low risk
-23,100,7.5,low risk
-22,120,7.5,low risk
-21,120,7.5,low risk
-21,75,7.5,low risk
-12,90,7.5,low risk
-60,120,7.5,low risk
-55,100,7.5,low risk
-45,120,7.5,low risk
-35,100,7.5,low risk
-22,120,7.5,low risk
-13,90,7.5,low risk
-23,120,7.5,low risk
-17,90,7.5,low risk
-59,120,7.5,low risk
-23,120,7.5,low risk
-17,85,7.5,low risk
-32,120,7.5,low risk
-42,120,7.5,low risk
-25,140,7.01,high risk
-32,140,6.9,high risk
-14,90,7.0,high risk
-37,120,11.0,high risk
-17,110,12.0,high risk
-40,120,12.0,high risk
-12,90,7.9,high risk
-35,140,8.0,high risk
-54,140,15.0,high risk
-40,120,11.0,high risk
-50,130,16.0,high risk
-17,90,6.1,high risk
-28,83,8.0,high risk
-50,120,15.0,high risk
-17,85,9.0,high risk
-33,120,10.0,high risk
-48,120,11.0,high risk
-30,140,15.0,high risk
-29,120,7.2,high risk
-48,120,11.0,high risk
-50,140,15.0,high risk
-25,140,7.2,high risk
-55,140,7.2,high risk
-28,120,9.0,high risk
-32,140,8.0,high risk
-17,90,11.0,high risk
-17,90,8.0,high risk
-25,120,12.0,high risk
-17,120,7.0,high risk
-19,90,11.0,high risk
-37,120,11.0,high risk
-17,110,13.0,high risk
-25,120,15.0,high risk
-12,90,8.0,high risk
-35,140,9.0,high risk
-54,140,15.0,high risk
-40,120,11.0,high risk
-12,90,11.0,high risk
-50,130,16.0,high risk
-13,90,9.0,high risk
-17,90,7.7,high risk
-17,85,6.3,high risk
-40,120,7.7,high risk
-48,120,11.0,high risk
-32,120,6.0,mid risk
+25,130,15.0,High
+35,140,13.0,High
+29,90,8.0,High
+30,140,7.0,High
+35,120,6.1,Low
+23,140,7.01,High
+23,130,7.01,Mid
+35,85,11.0,High
+32,120,6.9,Mid
+23,90,7.01,Low
+19,120,7.0,Mid
+25,110,7.01,Low
+20,120,7.01,Mid
+48,120,11.0,Mid
+15,120,7.01,Low
+50,140,15.0,High
+25,140,7.01,High
+30,120,6.9,Mid
+10,70,6.9,Low
+50,140,6.7,Mid
+21,90,7.5,Low
+18,90,7.5,Low
+21,120,7.5,Low
+16,100,7.2,Low
+19,120,7.2,Low
+22,100,7.2,Low
+49,120,7.2,Low
+28,90,7.2,Low
+20,100,7.1,Low
+23,100,7.1,Low
+22,120,7.1,Low
+21,120,7.1,Low
+21,75,6.1,Low
+12,95,6.1,Low
+60,120,6.1,Low
+55,100,6.1,Low
+45,120,6.1,Low
+35,100,6.1,Low
+22,120,6.1,Low
+23,120,6.1,Low
+25,90,6.1,Low
+30,120,6.1,Low
+23,120,6.1,Low
+32,120,7.5,Low
+42,120,7.5,Low
+23,90,7.5,Low
+15,76,7.5,Low
+15,120,7.0,Low
+25,120,7.0,Low
+22,100,7.0,Low
+35,100,7.0,Low
+19,120,7.0,Low
+60,90,7.0,Low
+23,120,6.7,Low
+32,120,6.4,Low
+42,120,6.4,Low
+23,90,6.4,Low
+15,76,6.4,Low
+15,120,7.2,Low
+15,80,7.0,Low
+12,95,7.2,Low
+29,90,6.7,Mid
+31,120,6.1,Mid
+29,130,6.7,Mid
+17,85,9.0,Mid
+19,120,7.0,Mid
+20,110,7.0,Mid
+32,120,6.0,Mid
+26,85,6.0,Mid
+29,130,7.7,Mid
+19,120,7.0,Mid
+54,130,12.0,Mid
+44,120,16.0,Mid
+23,130,6.9,Mid
+22,85,6.9,Mid
+55,120,12.0,Mid
+35,120,6.9,Mid
+21,90,6.9,Mid
+16,90,6.9,Mid
+33,115,7.0,Mid
+12,95,6.9,Mid
+28,120,6.9,Mid
+21,90,6.9,Mid
+18,90,6.9,Mid
+21,120,6.9,Mid
+16,100,6.9,Mid
+19,120,6.9,Mid
+23,100,6.9,Mid
+22,120,7.8,Mid
+13,90,7.8,Mid
+23,120,7.8,Mid
+28,115,7.8,Mid
+50,120,7.8,Mid
+29,130,7.8,Mid
+19,120,7.0,Mid
+19,120,7.8,Mid
+60,90,6.8,Mid
+55,120,6.8,Mid
+25,120,6.8,Mid
+48,140,15.0,High
+25,140,6.8,High
+23,140,6.8,High
+34,85,11.0,High
+50,140,15.0,High
+25,140,6.8,High
+32,140,7.9,High
+38,135,7.9,High
+39,90,9.0,High
+30,140,15.0,High
+25,140,7.9,High
+30,120,7.9,High
+32,140,7.9,High
+30,140,15.0,High
+48,120,11.0,High
+49,140,15.0,High
+25,140,7.5,High
+35,140,7.5,High
+54,140,15.0,High
+29,120,9.0,High
+48,120,11.0,High
+35,140,7.5,High
+54,140,15.0,High
+40,120,11.0,High
+22,90,7.5,High
+40,120,15.0,High
+50,130,16.0,High
+18,120,6.9,Mid
+32,140,6.9,High
+17,90,6.9,Mid
+17,90,6.9,Mid
+25,120,6.7,Mid
+17,120,6.7,Mid
+14,90,7.0,High
+15,80,6.7,Low
+15,100,6.7,Low
+12,95,6.7,Low
+37,120,11.0,High
+18,100,6.7,Low
+21,100,6.7,Low
+17,110,12.0,High
+25,120,7.5,Low
+23,85,7.5,Low
+12,95,7.5,Low
+28,120,7.5,Low
+40,120,12.0,High
+55,129,7.5,Low
+25,100,7.5,Low
+35,120,7.5,Low
+21,90,7.5,Low
+18,90,7.5,Low
+21,120,7.5,Low
+16,100,7.2,Low
+19,120,7.2,Low
+22,100,7.2,Low
+49,120,7.2,Low
+28,90,7.2,Low
+12,90,7.9,High
+20,100,7.1,Low
+23,100,7.1,Low
+22,120,7.1,Low
+21,120,7.1,Low
+35,140,8.0,High
+54,140,15.0,High
+40,120,11.0,High
+21,75,6.1,Low
+12,95,6.1,Low
+50,130,16.0,High
+60,120,6.1,Low
+55,100,6.1,Low
+45,120,6.1,Low
+35,100,6.1,Low
+22,120,6.1,Low
+13,90,7.9,Mid
+23,120,6.1,Low
+17,90,6.1,High
+28,83,8.0,High
+50,120,15.0,High
+25,90,6.1,Low
+30,120,6.1,Low
+31,120,6.1,Mid
+23,120,6.1,Low
+29,130,6.1,Mid
+17,85,9.0,High
+32,120,7.5,Low
+42,120,7.5,Low
+23,90,7.5,Low
+19,120,7.0,Mid
+15,76,7.5,Low
+33,120,10.0,High
+48,120,11.0,High
+15,120,7.0,Low
+25,120,7.0,Low
+22,100,7.0,Low
+35,100,7.0,Low
+19,120,7.0,Low
+60,90,7.0,Low
+28,85,9.0,Mid
+50,140,6.7,Mid
+29,90,6.7,Mid
+30,140,15.0,High
+31,120,6.1,Mid
+23,120,6.7,Low
+29,130,6.7,Mid
+17,85,9.0,Mid
+32,120,6.4,Low
+42,120,6.4,Low
+23,90,6.4,Low
+19,120,7.0,Mid
+15,76,6.4,Low
+29,120,7.2,High
+48,120,11.0,High
+15,120,7.2,Low
+50,140,15.0,High
+25,140,7.2,High
+55,140,7.2,High
+20,110,7.0,Mid
+28,120,9.0,High
+32,140,8.0,High
+17,90,11.0,High
+17,90,8.0,High
+25,120,12.0,High
+17,120,7.0,High
+19,90,11.0,High
+15,80,7.0,Low
+32,120,6.0,Mid
+12,95,7.2,Low
+37,120,11.0,High
+18,100,6.8,Low
+21,100,6.9,Low
+17,110,13.0,High
+25,120,15.0,High
+10,85,6.9,Low
+12,95,6.9,Low
+28,120,6.9,Low
+40,120,6.9,Low
+55,110,6.9,Low
+25,100,6.9,Low
+35,120,6.9,Low
+21,90,6.9,Low
+18,90,6.9,Low
+21,120,6.9,Low
+16,100,6.9,Low
+19,120,6.9,Low
+22,100,6.9,Low
+49,120,6.9,Low
+28,90,6.9,Low
+12,90,8.0,High
+20,100,7.0,Low
+23,100,7.0,Low
+22,120,7.0,Low
+21,120,7.0,Low
+35,140,9.0,High
+54,140,15.0,High
+40,120,11.0,High
+21,75,7.7,Low
+12,90,11.0,High
+50,130,16.0,High
+60,120,7.7,Low
+55,100,7.7,Low
+45,120,7.7,Low
+35,100,7.7,Low
+22,120,7.7,Low
+13,90,9.0,High
+23,120,7.7,Low
+17,90,7.7,High
+26,85,6.0,Mid
+50,120,7.7,Low
+19,90,7.7,Low
+30,120,7.7,Low
+31,120,6.1,Low
+23,120,7.7,Low
+29,130,7.7,Mid
+17,85,6.3,High
+32,120,7.7,Low
+42,120,7.7,Low
+23,90,7.7,Low
+19,120,7.0,Mid
+15,75,7.7,Low
+40,120,7.7,High
+48,120,11.0,High
+15,120,7.7,Low
+25,120,7.7,Low
+22,100,6.9,Low
+12,120,6.9,Low
+35,100,6.9,Low
+19,120,6.9,Low
+60,90,6.9,Low
+55,120,6.9,Low
+35,90,6.9,Low
+51,85,6.9,Low
+62,120,6.9,Low
+25,90,6.9,Low
+21,120,6.9,Low
+54,130,12.0,Mid
+12,120,6.9,Low
+65,90,6.9,Low
+60,120,6.9,Low
+25,120,6.9,Low
+22,90,6.9,Low
+66,85,6.9,Low
+56,120,13.0,High
+35,90,6.9,Low
+43,120,15.0,High
+35,120,6.9,Low
+44,120,16.0,Mid
+23,130,6.9,Mid
+22,85,6.9,Mid
+55,120,12.0,Mid
+35,120,6.9,Mid
+21,90,6.9,Mid
+45,120,6.9,Low
+65,120,6.9,Low
+55,120,6.9,Low
+22,120,6.9,Low
+16,90,6.9,Mid
+12,95,6.9,Low
+37,120,11.0,High
+18,100,6.9,Low
+21,100,6.9,Low
+17,110,6.9,High
+25,120,6.9,Low
+33,115,7.0,Mid
+12,95,6.9,Mid
+28,120,6.9,Mid
+40,120,6.9,High
+55,110,6.9,High
+25,100,6.9,High
+35,120,6.9,High
+21,90,6.9,Mid
+18,90,6.9,Mid
+21,120,6.9,Mid
+16,100,6.9,Mid
+19,120,6.9,Mid
+23,100,6.9,Mid
+22,120,7.8,Mid
+21,120,7.8,Low
+35,140,7.8,High
+54,140,15.0,High
+40,120,11.0,High
+21,75,7.8,Low
+12,90,7.8,High
+50,130,16.0,High
+60,120,7.8,High
+55,100,7.8,Low
+45,120,7.8,Low
+35,100,7.8,Low
+22,120,7.8,Low
+13,90,7.8,Mid
+23,120,7.8,Mid
+17,90,7.8,High
+28,115,7.8,Mid
+50,120,7.8,Mid
+19,90,7.8,Low
+30,120,7.8,Low
+31,120,6.1,Low
+23,120,7.8,Low
+29,130,7.8,Mid
+17,85,7.8,High
+32,120,7.8,Low
+42,120,7.8,Low
+23,90,7.8,Low
+19,120,7.0,Mid
+15,76,7.8,Low
+20,120,7.8,Low
+48,120,11.0,High
+15,120,7.8,Low
+25,120,7.8,Low
+22,100,7.8,Low
+12,120,7.8,Low
+35,100,7.8,Low
+19,120,7.8,Mid
+60,90,6.8,Mid
+55,120,6.8,Mid
+25,120,6.8,Mid
+22,100,6.8,Low
+12,120,6.8,Mid
+35,100,6.8,Mid
+19,120,6.8,Mid
+60,90,6.8,Mid
+55,120,6.8,Low
+50,130,16.0,Mid
+27,120,6.8,Mid
+60,140,12.0,High
+55,100,6.8,Mid
+12,120,6.8,Mid
+17,140,6.8,High
+60,120,6.8,Mid
+22,100,6.8,Low
+36,140,6.8,High
+22,90,6.8,Low
+25,120,6.8,Mid
+40,140,13.0,High
+27,120,6.8,Low
+36,140,6.8,High
+22,90,6.8,Mid
+25,120,6.8,Low
+40,140,13.0,High
+27,120,6.8,Low
+27,120,6.8,Low
+35,140,13.0,High
+29,90,10.0,High
+30,120,6.8,Mid
+35,120,6.1,Mid
+23,140,6.8,High
+23,130,6.8,Mid
+35,85,11.0,High
+32,120,6.8,Low
+23,99,6.8,Low
+19,120,7.0,Mid
+15,76,6.8,Low
+30,120,6.8,Mid
+48,120,11.0,High
+15,120,6.8,Low
+48,140,15.0,High
+25,140,6.8,High
+29,100,6.8,Low
+32,120,6.8,Mid
+35,120,6.1,Low
+23,140,6.8,High
+23,130,6.8,Mid
+34,85,11.0,High
+32,120,6.8,Low
+23,90,6.8,Low
+19,120,7.0,Mid
+15,76,6.8,Low
+20,120,6.8,Low
+48,120,11.0,Low
+15,120,6.8,Low
+50,140,15.0,High
+25,140,6.8,High
+30,120,6.8,Low
+31,110,6.8,Mid
+18,120,6.8,Low
+32,140,7.9,High
+17,90,7.9,Low
+19,120,7.0,Mid
+15,76,7.9,Low
+19,120,7.9,Low
+48,120,11.0,Low
+15,120,7.9,Low
+25,120,7.9,Mid
+22,100,7.9,Low
+35,100,7.9,Low
+19,120,7.9,Low
+60,90,7.9,Low
+38,135,7.9,High
+50,120,7.9,Low
+39,90,9.0,High
+30,140,15.0,High
+31,120,6.1,Mid
+23,120,7.9,Mid
+29,130,7.9,Mid
+17,85,7.9,Low
+32,120,7.9,Low
+42,120,7.9,Low
+23,90,7.9,Low
+19,120,7.0,Low
+15,76,7.9,Low
+16,120,7.9,Low
+48,120,11.0,Mid
+15,120,7.9,Low
+25,140,7.9,High
+30,120,7.9,High
+17,70,7.9,Low
+18,120,7.9,Mid
+32,140,7.9,High
+17,90,7.5,Low
+17,90,7.5,Low
+25,120,7.5,Low
+17,120,7.5,Low
+19,90,7.5,Low
+15,80,7.5,Low
+60,90,7.5,Low
+18,85,7.5,Mid
+50,120,7.5,Low
+19,90,7.5,Low
+30,140,15.0,High
+31,120,6.1,Low
+23,120,7.5,Low
+29,130,7.5,Mid
+17,85,7.5,Low
+32,120,7.5,Low
+42,120,7.5,Low
+42,90,7.5,Low
+19,120,7.0,Low
+15,78,7.5,Low
+23,120,8.0,Mid
+48,120,11.0,High
+15,120,7.5,Mid
+49,140,15.0,High
+25,140,7.5,High
+30,120,7.5,Mid
+16,70,7.5,Low
+16,100,7.5,Low
+19,120,7.5,Low
+22,100,7.5,Low
+49,120,7.5,Low
+28,90,7.5,Low
+12,90,7.5,Low
+20,100,7.5,Low
+23,100,7.5,Low
+22,120,7.5,Low
+21,120,7.5,Low
+35,140,7.5,High
+54,140,15.0,High
+40,120,11.0,Mid
+21,75,7.5,Low
+12,90,7.5,Low
+50,130,16.0,Mid
+60,120,7.5,Low
+55,100,7.5,Low
+45,120,7.5,Low
+35,100,7.5,Low
+22,120,7.5,Low
+13,90,7.5,Low
+23,120,7.5,Low
+17,90,7.5,Low
+28,115,7.5,Mid
+59,120,7.5,Low
+29,120,9.0,High
+23,120,7.5,Low
+31,120,6.1,Mid
+23,120,7.5,Mid
+29,130,7.5,Mid
+17,85,7.5,Low
+32,120,7.5,Low
+42,120,7.5,Low
+23,90,7.5,Low
+19,120,7.0,Low
+15,78,7.5,Low
+20,120,7.5,Low
+48,120,11.0,High
+15,120,7.5,Low
+24,120,7.5,Low
+16,100,7.5,Low
+19,120,7.5,Low
+22,100,7.5,Mid
+49,120,7.5,Mid
+28,90,7.5,Mid
+12,90,7.5,Mid
+20,100,7.5,Mid
+23,100,7.5,Mid
+22,120,7.5,Mid
+21,120,7.5,Mid
+35,140,7.5,High
+54,140,15.0,High
+40,120,11.0,High
+21,75,7.5,Low
+22,90,7.5,High
+40,120,15.0,High
+50,130,16.0,High
+60,120,7.5,Mid
+40,120,15.0,High
+50,130,16.0,Mid
+41,120,7.5,Low
+55,100,7.5,Low
+45,120,7.5,Low
+35,100,7.5,Low
+22,120,7.5,Low
+13,90,7.5,High
+23,120,7.5,Low
+17,90,7.5,Mid
+27,135,7.5,High
+50,120,15.0,High
+34,110,7.0,High
+32,120,7.5,Low
+31,120,6.1,Low
+23,120,7.5,Low
+29,130,7.5,Mid
+17,85,7.5,High
+32,120,7.5,Low
+42,120,7.5,Low
+23,90,7.5,Low
+19,120,7.0,Mid
+15,76,7.5,Low
+20,120,7.5,Low
+48,120,11.0,High
+15,120,7.5,Low
+24,120,7.5,Low
+22,100,12.0,High
+35,100,11.0,High
+19,120,9.0,Mid
+30,90,8.0,Mid
+28,85,9.0,Mid
+50,130,15.0,High
+35,140,13.0,High
+29,90,11.0,High
+19,120,7.0,Low
+46,140,12.0,High
+28,95,10.0,High
+50,120,7.0,Mid
+39,110,7.9,Mid
+31,120,6.1,Low
+23,120,8.0,Low
+29,130,8.0,Mid
+17,90,9.0,Mid
+32,120,7.0,Mid
+42,120,9.0,Mid
+23,90,6.7,Low
+19,120,7.0,Low
+15,76,7.0,Low
+34,120,8.0,Low
+48,120,11.0,High
+15,120,6.6,Low
+25,140,12.0,High
+36,120,7.0,Mid
+30,120,9.0,Mid
+15,70,6.0,Mid
+40,120,7.0,High
+15,90,6.0,Low
+21,90,6.9,Low
+15,90,6.0,Low
+21,90,6.5,Low
+15,90,6.0,Low
+15,90,6.7,Low
+15,90,6.0,Low
+10,100,6.0,Mid
+15,100,6.8,Low
+15,100,6.0,Low
+12,100,6.4,Mid
+15,100,6.0,Low
+35,140,13.0,High
+29,90,8.0,High
+30,140,7.0,High
+23,140,7.01,High
+35,85,11.0,High
+50,140,15.0,High
+25,140,7.01,High
+32,140,6.9,High
+14,90,7.0,High
+37,120,11.0,High
+17,110,12.0,High
+40,120,12.0,High
+20,120,7.5,Low
+15,120,7.5,Low
+24,120,7.5,Low
+19,120,7.0,Low
+31,120,6.1,Low
+23,120,8.0,Low
+23,90,6.7,Low
+19,120,7.0,Low
+15,76,7.0,Low
+34,120,8.0,Low
+15,120,6.6,Low
+15,90,6.0,Low
+21,90,6.9,Low
+15,100,7.6,Low
+12,100,6.0,Mid
+21,100,6.8,Low
+23,130,7.01,Mid
+32,120,6.9,Mid
+19,120,7.0,Mid
+20,120,7.01,Mid
+48,120,11.0,Mid
+30,120,6.9,Mid
+18,120,6.9,Mid
+17,90,6.9,Mid
+17,90,6.9,Mid
+25,120,6.7,Mid
+17,120,6.7,Mid
+13,90,7.9,Mid
+31,120,6.1,Mid
+29,130,6.1,Mid
+19,120,7.0,Mid
+28,85,9.0,Mid
+50,140,6.7,Mid
+29,90,6.7,Mid
+31,120,6.1,Mid
+29,130,6.7,Mid
+17,85,9.0,Mid
+19,120,7.0,Mid
+20,110,7.0,Mid
+19,120,7.0,Mid
+20,120,7.01,Mid
+48,120,11.0,Mid
+30,120,6.9,Mid
+18,120,6.9,Mid
+17,90,6.9,Mid
+17,90,6.9,Mid
+25,120,6.7,Mid
+17,120,6.7,Mid
+13,90,7.9,Mid
+31,120,6.1,Mid
+29,130,6.1,Mid
+19,120,7.0,Mid
+28,85,9.0,Mid
+50,140,6.7,Mid
+29,90,6.7,Mid
+31,120,6.1,Mid
+29,130,6.7,Mid
+17,85,9.0,Mid
+19,120,7.0,Mid
+20,110,7.0,Mid
+32,120,6.0,Mid
+26,85,6.0,Mid
+29,130,7.7,Mid
+19,120,7.0,Mid
+54,130,12.0,Mid
+44,120,16.0,Mid
+23,130,6.9,Mid
+22,85,6.9,Mid
+55,120,12.0,Mid
+35,120,6.9,Mid
+21,90,6.9,Mid
+16,90,6.9,Mid
+33,115,7.0,Mid
+12,95,6.9,Mid
+28,120,6.9,Mid
+21,90,6.9,Mid
+18,90,6.9,Mid
+21,120,6.9,Mid
+16,100,6.9,Mid
+19,120,6.9,Mid
+23,100,6.9,Mid
+22,120,7.8,Mid
+13,90,7.8,Mid
+23,120,7.8,Mid
+28,115,7.8,Mid
+50,120,7.8,Mid
+29,130,7.8,Mid
+19,120,7.0,Mid
+19,120,7.8,Mid
+60,90,6.8,Mid
+55,120,6.8,Mid
+25,120,6.8,Mid
+12,120,6.8,Mid
+35,100,6.8,Mid
+19,120,6.8,Mid
+60,90,6.8,Mid
+50,130,16.0,Mid
+27,120,6.8,Mid
+55,100,6.8,Mid
+12,120,6.8,Mid
+60,120,6.8,Mid
+25,120,6.8,Mid
+22,90,6.8,Mid
+30,120,6.8,Mid
+35,120,6.1,Mid
+23,130,6.8,Mid
+19,120,7.0,Mid
+30,120,6.8,Mid
+32,120,6.8,Mid
+23,130,6.8,Mid
+19,120,7.0,Mid
+31,110,6.8,Mid
+19,120,7.0,Mid
+25,120,7.9,Mid
+31,120,6.1,Mid
+23,120,7.9,Mid
+29,130,7.9,Mid
+48,120,11.0,Mid
+18,120,7.9,Mid
+18,85,7.5,Mid
+29,130,7.5,Mid
+23,120,8.0,Mid
+15,120,7.5,Mid
+30,120,7.5,Mid
+40,120,11.0,Mid
+50,130,16.0,Mid
+28,115,7.5,Mid
+31,120,6.1,Mid
+23,120,7.5,Mid
+29,130,7.5,Mid
+22,100,7.5,Mid
+49,120,7.5,Mid
+28,90,7.5,Mid
+12,90,7.5,Mid
+20,100,7.5,Mid
+23,100,7.5,Mid
+22,120,7.5,Mid
+21,120,7.5,Mid
+60,120,7.5,Mid
+50,130,16.0,Mid
+17,90,7.5,Mid
+29,130,7.5,Mid
+19,120,7.0,Mid
+19,120,9.0,Mid
+30,90,8.0,Mid
+28,85,9.0,Mid
+50,120,7.0,Mid
+39,110,7.9,Mid
+29,130,8.0,Mid
+17,90,9.0,Mid
+32,120,7.0,Mid
+42,120,9.0,Mid
+36,120,7.0,Mid
+30,120,9.0,Mid
+15,70,6.0,Mid
+10,100,6.0,Mid
+12,100,6.4,Mid
+12,100,6.0,Mid
+23,130,7.01,Mid
+32,120,6.9,Mid
+19,120,7.0,Mid
+20,120,7.01,Mid
+48,120,11.0,Mid
+30,120,6.9,Mid
+18,120,6.9,Mid
+17,90,6.9,Mid
+17,90,6.9,Mid
+25,120,6.7,Mid
+17,120,6.7,Mid
+13,90,7.9,Mid
+31,120,6.1,Mid
+29,130,6.1,Mid
+19,120,7.0,Mid
+28,85,9.0,Mid
+50,140,6.7,Mid
+29,90,6.7,Mid
+31,120,6.1,Mid
+29,130,6.7,Mid
+17,85,9.0,Mid
+19,120,7.0,Mid
+20,110,7.0,Mid
+32,120,6.0,Mid
+27,120,6.8,Low
+27,120,6.8,Low
+32,120,6.8,Low
+23,99,6.8,Low
+15,76,6.8,Low
+15,120,6.8,Low
+29,100,6.8,Low
+35,120,6.1,Low
+32,120,6.8,Low
+23,90,6.8,Low
+15,76,6.8,Low
+20,120,6.8,Low
+48,120,11.0,Low
+15,120,6.8,Low
+30,120,6.8,Low
+18,120,6.8,Low
+17,90,7.9,Low
+15,76,7.9,Low
+19,120,7.9,Low
+48,120,11.0,Low
+15,120,7.9,Low
+22,100,7.9,Low
+35,100,7.9,Low
+19,120,7.9,Low
+60,90,7.9,Low
+50,120,7.9,Low
+17,85,7.9,Low
+32,120,7.9,Low
+42,120,7.9,Low
+23,90,7.9,Low
+19,120,7.0,Low
+15,76,7.9,Low
+16,120,7.9,Low
+15,120,7.9,Low
+17,70,7.9,Low
+17,90,7.5,Low
+17,90,7.5,Low
+25,120,7.5,Low
+17,120,7.5,Low
+19,90,7.5,Low
+15,80,7.5,Low
+60,90,7.5,Low
+50,120,7.5,Low
+19,90,7.5,Low
+31,120,6.1,Low
+23,120,7.5,Low
+17,85,7.5,Low
+32,120,7.5,Low
+42,120,7.5,Low
+42,90,7.5,Low
+19,120,7.0,Low
+15,78,7.5,Low
+16,70,7.5,Low
+16,100,7.5,Low
+19,120,7.5,Low
+22,100,7.5,Low
+49,120,7.5,Low
+28,90,7.5,Low
+12,90,7.5,Low
+20,100,7.5,Low
+23,100,7.5,Low
+22,120,7.5,Low
+21,120,7.5,Low
+21,75,7.5,Low
+12,90,7.5,Low
+60,120,7.5,Low
+55,100,7.5,Low
+45,120,7.5,Low
+35,100,7.5,Low
+22,120,7.5,Low
+13,90,7.5,Low
+23,120,7.5,Low
+17,90,7.5,Low
+59,120,7.5,Low
+23,120,7.5,Low
+17,85,7.5,Low
+32,120,7.5,Low
+42,120,7.5,Low
+25,140,7.01,High
+32,140,6.9,High
+14,90,7.0,High
+37,120,11.0,High
+17,110,12.0,High
+40,120,12.0,High
+12,90,7.9,High
+35,140,8.0,High
+54,140,15.0,High
+40,120,11.0,High
+50,130,16.0,High
+17,90,6.1,High
+28,83,8.0,High
+50,120,15.0,High
+17,85,9.0,High
+33,120,10.0,High
+48,120,11.0,High
+30,140,15.0,High
+29,120,7.2,High
+48,120,11.0,High
+50,140,15.0,High
+25,140,7.2,High
+55,140,7.2,High
+28,120,9.0,High
+32,140,8.0,High
+17,90,11.0,High
+17,90,8.0,High
+25,120,12.0,High
+17,120,7.0,High
+19,90,11.0,High
+37,120,11.0,High
+17,110,13.0,High
+25,120,15.0,High
+12,90,8.0,High
+35,140,9.0,High
+54,140,15.0,High
+40,120,11.0,High
+12,90,11.0,High
+50,130,16.0,High
+13,90,9.0,High
+17,90,7.7,High
+17,85,6.3,High
+40,120,7.7,High
+48,120,11.0,High
+32,120,6.0,Mid

@@ -8,4 +8,7 @@ matplotlib
 seaborn
 scikit-learn
 ucimlrepo
+xgboost
+lightgbm
+catboost
 # -e .

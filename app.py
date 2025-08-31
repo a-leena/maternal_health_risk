@@ -22,4 +22,9 @@ if submit:
                                  body_temp, heart_rate)
     predict_pipeline = PredictPipeline()
     prediction = predict_pipeline.predict(input)
-    st.success(f"Predicted Maternal Risk Level: {prediction[0]}")
+    if prediction[0]=='Low':
+        st.success(f"Predicted Maternal Risk Level: {prediction[0]}")
+    elif prediction[0]=='Mid':
+        st.warning(f"Predicted Maternal Risk Level: {prediction[0]}")
+    elif prediction[0]=='High':
+        st.error(f"Predicted Maternal Risk Level: {prediction[0]}")

@@ -22,29 +22,29 @@ def load_object(file_path):
         raise CustomException(e, sys)
     
 
-# def get_custom_dataframe(age, systolic_bp, diastolic_bp, blood_sugar, body_temp, heart_rate):
-#     try:
-#         data_input = {
-#             "Age":[age],
-#             "SystolicBP": [systolic_bp],
-#             "DiastolicBP": [diastolic_bp],
-#             "BloodSugar": [blood_sugar],
-#             "BodyTemp": [body_temp],
-#             "HeartRate": [heart_rate]
-#         }
-#         return pd.DataFrame(data_input)
-    
-#     except Exception as e:
-#         raise CustomException(e, sys)
-    
-def get_custom_dataframe(age, systolic_bp, blood_sugar):
+def get_custom_dataframe(age, systolic_bp, diastolic_bp, blood_sugar, body_temp, heart_rate):
     try:
         data_input = {
             "Age":[age],
             "SystolicBP": [systolic_bp],
-            "BloodSugar": [blood_sugar]
+            "DiastolicBP": [diastolic_bp],
+            "BloodSugar": [blood_sugar],
+            "BodyTemp": [body_temp],
+            "HeartRate": [heart_rate]
         }
         return pd.DataFrame(data_input)
     
     except Exception as e:
         raise CustomException(e, sys)
+    
+# def get_custom_dataframe(age, systolic_bp, blood_sugar):
+#     try:
+#         data_input = {
+#             "Age":[age],
+#             "SystolicBP": [systolic_bp],
+#             "BloodSugar": [blood_sugar]
+#         }
+#         return pd.DataFrame(data_input)
+    
+#     except Exception as e:
+#         raise CustomException(e, sys)

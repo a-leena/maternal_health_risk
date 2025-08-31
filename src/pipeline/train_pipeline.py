@@ -6,7 +6,8 @@ from src.components import data_ingestion, data_transformation, model_trainer
 
 @dataclass
 class TrainingConfig:
-    data_path = r"C:\\Users\\aleen\Documents\Work\Data Analyst\\Portfolio\\EDA_ML\\maternal_health_risk\data\\all_features_data.csv"
+    # data_path = r"C:\\Users\\aleen\Documents\Work\Data Analyst\\Portfolio\\EDA_ML\\maternal_health_risk\data\\all_features_data.csv"
+    data_path = r"C:\\Users\\aleen\Documents\Work\Data Analyst\\Portfolio\\EDA_ML\\maternal_health_risk\data\\few_features_data.csv"
 
 class TrainPipeline:
     def __init__(self):

@@ -24,13 +24,18 @@ def load_object(file_path):
 
 def get_custom_dataframe(age, systolic_bp, diastolic_bp, blood_sugar, body_temp, heart_rate):
     try:
+        # data_input = {
+        #     "Age":[age],
+        #     "SystolicBP": [systolic_bp],
+        #     "DiastolicBP": [diastolic_bp],
+        #     "BloodSugar": [blood_sugar],
+        #     "BodyTemp": [body_temp],
+        #     "HeartRate": [heart_rate]
+        # }
         data_input = {
             "Age":[age],
             "SystolicBP": [systolic_bp],
-            "DiastolicBP": [diastolic_bp],
-            "BloodSugar": [blood_sugar],
-            "BodyTemp": [body_temp],
-            "HeartRate": [heart_rate]
+            "BloodSugar": [blood_sugar]
         }
         return pd.DataFrame(data_input)
     

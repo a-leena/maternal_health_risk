@@ -25,6 +25,7 @@ class PredictPipeline:
 
             model = load_object(file_path=self.prediction_config.model_path)
             encoded_prediction = model.predict(scaled_input)
+            encoded_prediction = encoded_prediction.astype(int)
             logging.info("Encoded prediction is made by the model.")
 
             target_preprocessor = load_object(file_path=self.prediction_config.target_preprocessor_path)

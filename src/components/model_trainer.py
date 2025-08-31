@@ -109,7 +109,7 @@ class ModelTrainer:
                 cv=5,
                 scoring='accuracy',
                 n_jobs=-1,
-                verbose=1
+                verbose=0
             )
             grid.fit(X_train, y_train)
             best_model = grid.best_estimator_

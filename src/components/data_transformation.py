@@ -19,34 +19,22 @@ class DataTransformation:
     def __init__(self):
         self.transformation_config = DataTransformationConfig()
     
-    def get_preprocessor(self, numerical_cols, categorical_cols):
+    def get_preprocessor(self, numerical_cols):
         try:
             numerical_pipeline = Pipeline(
                 steps=[
                     ("scaler", StandardScaler())
                 ]
             )
-
-            categorical_pipeline = Pipeline(
-                steps=[
-                    ("label_encoder", LabelEncoder())
-                ]
-            )
-
             input_preprocessor = ColumnTransformer(
                 [
                     ("numerical_pipeline", numerical_pipeline, numerical_cols)
                 ]
             )
-            target_preprocessor = ColumnTransformer(
-                [
-                    ("categorical_pipeline", categorical_pipeline, categorical_cols)
-                ]
-            )
 
-            logging.info("Preprocessing pipelines have been created.")
+            logging.info("Preprocessing pipeline has been created.")
             
-            return input_preprocessor, target_preprocessor
+            return input_preprocessor
         
         except Exception as e:
             raise CustomException(e, sys)
@@ -57,22 +45,28 @@ class DataTransformation:
             train_df = pd.read_csv(train_path)
             test_df = pd.read_csv(test_path)
 
-            numerical_cols = train_df.select_dtypes(exclude="category").columns
-            categorical_cols = train_df.select_dtypes(include="category").columns
+            print(train_df.info())
+            numerical_cols = train_df.select_dtypes(exclude="object").columns
+            categorical_cols = train_df.select_dtypes(include="object").columns
 
-            input_preprocessor, target_preprocessor = self.get_preprocessor(numerical_cols=numerical_cols, categorical_cols=categorical_cols)
+            input_preprocessor = self.get_preprocessor(numerical_cols=numerical_cols)
 
-            input_train = train_df.drop(columns=[categorical_cols])
+            input_train = train_df.drop(columns=categorical_cols)
+            print(input_train.sample(10))
             target_train = train_df[categorical_cols]
+            print(target_train.sample(10))
 
-            input_test = test_df.drop(columns=[categorical_cols])
+            input_test = test_df.drop(columns=categorical_cols)
+            print(input_test.sample(10))
             target_test = test_df[categorical_cols]
+            print(target_test.sample(10))
 
             input_train_array = input_preprocessor.fit_transform(input_train)
             input_test_array = input_preprocessor.transform(input_test)
 
-            target_train_array = target_preprocessor.fit_transform(target_train)
-            target_test_array = target_preprocessor.transform(target_test)
+            target_preprocessor = LabelEncoder()
+            target_train_array = target_preprocessor.fit_transform(target_train.squeeze())
+            target_test_array = target_preprocessor.transform(target_test.squeeze())
 
             train_array = np.c_[input_train_array, target_train_array]
             test_array = np.c_[input_test_array, target_test_array]

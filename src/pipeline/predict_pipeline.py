@@ -29,6 +29,7 @@ class PredictPipeline:
 
             target_preprocessor = load_object(file_path=self.prediction_config.target_preprocessor_path)
             prediction = target_preprocessor.inverse_transform(encoded_prediction)
+            print(prediction)
             logging.info("Prediction is post-processed/decoded to give the class.")
 
             return prediction

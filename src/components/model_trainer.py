@@ -13,7 +13,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
 from sklearn.svm import SVC
 from xgboost import XGBClassifier
-from lightgbm import LGBMClassifier
 from catboost import CatBoostClassifier
 from sklearn.metrics import accuracy_score, r2_score
 
@@ -31,7 +30,6 @@ class ModelTrainerConfig:
         "Gradient Boosting": GradientBoostingClassifier(random_state=42),
         "SVM": SVC(probability=True, random_state=42),
         "XGBoost": XGBClassifier(random_state=42),
-        # "LightGBM": LGBMClassifier(random_state=42),
         "CatBoost": CatBoostClassifier(verbose=0, random_state=42)
     }
     params = {
@@ -81,12 +79,6 @@ class ModelTrainerConfig:
             'subsample': [0.8, 1.0],
             'colsample_bytree': [0.8, 1.0]
         },
-        # "LightGBM": {
-        #     'n_estimators': [100, 200, 300, 500],
-        #     'max_depth': [-1, 3, 5, 7],
-        #     'learning_rate': [0.001, 0.005, 0.01, 0.05, 0.1],
-        #     'num_leaves': [30, 50, 100]
-        # },
         "CatBoost": {
             'n_estimators': [100, 200, 300, 500],
             'learning_rate': [0.005, 0.01, 0.05, 0.1],

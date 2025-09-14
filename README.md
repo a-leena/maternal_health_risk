@@ -29,7 +29,7 @@ This project explores the Maternal Health dataset and develops machine learning 
 * Evaluation on test set
 * Results:
   * Best accuracy ~ 84%
-  * Model: XGBoost (in notebook experiments) and RandomForest (in pipeline tuning)
+  * Model: XGBoost
   * Models trained on the full feature space consistently outperformed those trained on the reduced feature set.
 
 ## [End-to-End ML Pipeline](src)

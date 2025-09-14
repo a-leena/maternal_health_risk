@@ -33,5 +33,15 @@ class TrainPipeline:
 
 
 if __name__ == "__main__":
+    print("here")
     training_pipeline = TrainPipeline()
     training_pipeline.initiate_train_pipeline()
+
+
+"""
+Random Forest has been trained, tuned, tested.
+Test Accuracy = 0.839572192513369
+Best Params: {'bootstrap': True, 'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+Best CV Score: 0.827489932885906
+Test Accuracy of Best Model: 0.839572192513369
+"""
